@@ -1,2 +1,2 @@
-# www.freemc.host
-www.freemc.host
+# cpgenie.csail.mit.edu
+cpgenie.csail.mit.edu
